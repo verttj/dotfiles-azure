@@ -30,7 +30,7 @@ no_focus [class="^mpv"]
 
 #### Zathura ####
 for_window [class="^Zathura"] floating enable resize set 700 800
-for_windows [class=^Zathura"] border pixel 0
+for_window [class=^Zathura"] border pixel 0
 
 #### Sptify ####
 for_window [class="^Spotify"] border pixel 0
