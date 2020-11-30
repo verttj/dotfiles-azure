@@ -9,6 +9,7 @@
 - **Terminal**                     : Kitty
 - **Notify Daemon**                : Dunst
 - **Compositor**                   : Picom by ibhagwan
+- **Bar**                          : Polybar
 
 :heart_eyes_cat: screenshot: 
 
